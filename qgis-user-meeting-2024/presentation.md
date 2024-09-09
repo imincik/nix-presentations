@@ -15,10 +15,6 @@ QGIS User Conference, Bratislava, Slovakia, 2024
 
 ---
 
-![silvia-me](images/silvia-me-x.jpg)
-
----
-
 ![jajo-filip](images/jajo-filip-x.jpg)
 
 ---
